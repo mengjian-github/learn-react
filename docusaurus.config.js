@@ -12,7 +12,7 @@ const config = {
   tagline: '欢迎来到React学习文档，这里提供全面的React教程、帮助您快速掌握React框架。',
   favicon: 'img/favicon.ico',
 
-  url: 'https://learn-react.vercel.app',
+  url: 'https://r-learn.vercel.app/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/',
