@@ -1,6 +1,6 @@
 ---
 title: reducer 和 context 结合使用
-sidebar_position: 
+sidebar_position: 8
 ---
 
 # reducer 和 context 结合使用
